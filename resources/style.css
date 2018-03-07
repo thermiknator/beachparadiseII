@@ -1,0 +1,15 @@
+* {
+  font-family: sans-serif;
+}
+
+h1, h2 {
+  color: DarkGreen;
+}
+
+h3 {
+  color: SeaGreen;
+}
+
+body {
+  background-color: rgba(255, 255, 128, .5);
+}
